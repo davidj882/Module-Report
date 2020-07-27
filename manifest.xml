@@ -1,0 +1,23 @@
+<module>
+    <label></label>
+    <name></name>
+    <version>1.0</version>
+    <license>GPL</license>
+    <type>report</type>
+    <entry>index.php</entry>
+    <icon>icon.png</icon>
+
+    <description></description>
+
+    <author>
+        <name></name>
+        <email></email>
+        <web>http://www.cencade.com.mx</web>
+    </author>
+
+    <requirements>
+        <claroline>
+            <version>1.11.9</version>
+        </claroline>
+    </requirements>
+</module>

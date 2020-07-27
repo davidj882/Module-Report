@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS
+`__CL_MAIN__NAMETABLEMODULE` (
+	id int(11) UNSIGNED NOT NULL AUTO_INCREMENT,
+	string varchar(255) NULL DEFAULT NULL,
+	number int(1) NULL DEFAULT NULL,
+	date timestamp NOT NULL DEFAULT now(),
+	primary key (id)
+);
